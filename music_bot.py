@@ -277,7 +277,7 @@ if __name__ == "__main__":
     print("="*50)
     print(f"📅 Boshlanish vaqti: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("🤖 Bot ishga tushdi va tayyor!")
-    print("📍 Serverni o'lchang...")
+    print("📡 Serverni o'lchang...")
     print("="*50 + "\n")
     
     try:
